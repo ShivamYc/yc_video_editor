@@ -18,7 +18,7 @@ dependencies:
 #  video_player: ^2.1.12
   yc_video_player:
     git:
-      url: git://github.com/kshivam1177/yc_player.git
+      url: git://github.com/kshivam1177/yc_video_player.git
       ref: master
       version: 2.2.10
 

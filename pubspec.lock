@@ -283,7 +283,7 @@ packages:
       path: "."
       ref: master
       resolved-ref: "5400a4c9ce699e3a28d37165dfb5d1a869a47350"
-      url: "git://github.com/kshivam1177/yc_player.git"
+      url: "git://github.com/kshivam1177/yc_video_player.git"
     source: git
     version: "2.2.9"
 sdks:
