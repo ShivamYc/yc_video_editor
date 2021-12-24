@@ -16,7 +16,7 @@ dependencies:
   flutter_ffmpeg: ^0.4.2
   video_thumbnail: ^0.4.3
 #  video_player: ^2.1.12
-  video_player:
+  yc_video_player:
     git:
       url: git://github.com/kshivam1177/yc_player.git
       ref: master

@@ -329,15 +329,6 @@ packages:
       relative: true
     source: path
     version: "1.2.0"
-  video_player:
-    dependency: transitive
-    description:
-      path: "."
-      ref: master
-      resolved-ref: "64af703e854fce3bdd01f6627ab8193061f43b28"
-      url: "git://github.com/kshivam1177/yc_player.git"
-    source: git
-    version: "2.2.9"
   video_player_platform_interface:
     dependency: transitive
     description:
@@ -368,6 +359,15 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.2.0"
+  yc_video_player:
+    dependency: transitive
+    description:
+      path: "."
+      ref: master
+      resolved-ref: "5400a4c9ce699e3a28d37165dfb5d1a869a47350"
+      url: "git://github.com/kshivam1177/yc_player.git"
+    source: git
+    version: "2.2.9"
 sdks:
   dart: ">=2.14.0 <3.0.0"
   flutter: ">=2.5.0"
