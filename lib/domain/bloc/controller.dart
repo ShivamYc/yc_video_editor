@@ -2,7 +2,6 @@ import 'dart:io';
 import 'dart:typed_data';
 import 'package:path/path.dart' as path;
 import 'package:flutter/material.dart';
-import 'package:video_player/video_player.dart';
 import 'package:flutter_ffmpeg/statistics.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:flutter_ffmpeg/flutter_ffmpeg.dart';
@@ -12,6 +11,7 @@ import 'package:video_editor/domain/entities/trim_style.dart';
 import 'package:video_editor/domain/entities/cover_style.dart';
 import 'package:video_editor/domain/entities/cover_data.dart';
 import 'package:video_thumbnail/video_thumbnail.dart';
+import 'package:yc_video_player/video_player.dart';
 
 enum RotateDirection { left, right }
 
